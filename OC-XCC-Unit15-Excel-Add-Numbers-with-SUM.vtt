@@ -1,0 +1,62 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:07.182
+Welcome to Computer Class. Today you will learn how to add a list of numbers in Excel using the SUM formula.
+
+2
+00:00:07.482 --> 00:00:13.559
+Open Excel on your own computer and follow each step with me. It takes only five minutes.
+
+3
+00:00:14.550 --> 00:00:20.198
+Why do we use a formula? Excel adds the numbers for you, quickly and without mistakes.
+
+4
+00:00:20.498 --> 00:00:27.132
+If a price changes, the total updates by itself. Shops, schools and offices use this every day.
+
+5
+00:00:28.117 --> 00:00:33.848
+Step one. Type your data. Put the item names in column A and the prices in column B.
+
+6
+00:00:34.148 --> 00:00:39.877
+Click a cell, type the word or number, and press Enter to go down. Type Total in cell A6.
+
+7
+00:00:40.883 --> 00:00:46.975
+Step two. Click the cell where you want the answer. Here, click cell B six, next to the word Total.
+
+8
+00:00:47.275 --> 00:00:50.412
+The green box shows which cell is selected.
+
+9
+00:00:51.417 --> 00:00:58.855
+Step three. Type an equals sign, then S U M, then an open bracket. Type B two, a colon, B five, and close the bracket.
+
+10
+00:00:59.155 --> 00:01:03.976
+The formula means: add all the numbers from cell B two to cell B five.
+
+11
+00:01:04.276 --> 00:01:06.879
+Always start a formula with the equals sign.
+
+12
+00:01:07.883 --> 00:01:15.150
+Step four. Press Enter. Excel shows the answer, fourteen point five. That is the total of all four prices.
+
+13
+00:01:16.150 --> 00:01:24.720
+Try it. Change the price of eggs to six. Watch the total. It changes to seventeen by itself. This is the power of a formula.
+
+14
+00:01:25.717 --> 00:01:32.746
+Now it is your turn. Make a list of five things you buy each week, add the prices, and use SUM to find the total.
+
+15
+00:01:33.046 --> 00:01:39.010
+For a challenge, try the AVERAGE formula. Remember to start with the equals sign. Great work!
+

@@ -1,0 +1,46 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:05.498
+Welcome to Computer Class. Today you will learn: Excel: AVERAGE and IF.
+
+2
+00:00:05.798 --> 00:00:11.121
+Find an average and make Excel decide Pass or Fail. Follow each step on your own computer.
+
+3
+00:00:12.117 --> 00:00:16.780
+Step one. Click cell B five. This is where the average will appear.
+
+4
+00:00:17.783 --> 00:00:27.581
+Step two. Type equals AVERAGE, open bracket, B two colon B four, close bracket. Press Enter. The average is sixty-four point seven.
+
+5
+00:00:28.583 --> 00:00:43.115
+Step three. In cell C two, type equals IF, then the rule: B two is greater than or equal to fifty, then Pass, then Fail. IF means: if the rule is true, show Pass, if not, show Fail.
+
+6
+00:00:44.117 --> 00:00:50.615
+Step four. Drag the small square at the corner of the cell down. Excel copies the formula to every row.
+
+7
+00:00:51.617 --> 00:00:55.697
+Now it is your turn. Try these tasks on your own computer.
+
+8
+00:00:55.997 --> 00:00:57.939
+Find the average of five marks.
+
+9
+00:00:58.239 --> 00:01:00.470
+Use IF to show Pass or Fail.
+
+10
+00:01:00.770 --> 00:01:03.304
+Copy the formula down with the fill handle.
+
+11
+00:01:03.604 --> 00:01:04.500
+Well done!
+
